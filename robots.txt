@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bbq-ong-map-vo-van-kiet.vercel.app/sitemap.xml
